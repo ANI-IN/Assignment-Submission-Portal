@@ -49,7 +49,7 @@ nodemon app.js
 
 5. Access the API: The server will run on 
 ```bash
-http://localhost:3000 
+http://localhost:5000 
 ```
 You can use Postman to test the following endpoints:
 ```bash
