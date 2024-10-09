@@ -28,7 +28,7 @@ This is a backend system for an assignment submission portal where users can upl
 
 ```bash
 git clone https://github.com/ANI-IN/Assignment-Submission-Portal.git
-cd assignment-portal
+cd Assignment-Submission-Portal
 ```
 
 2. Install dependencies:
